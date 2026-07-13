@@ -1,7 +1,7 @@
 {
   "name": "Horizon-Store",
   "private": false,
-  "packageManager": "pnpm@11.12.0",
+  "packageManager": "pnpm@10.34.5",
   "engines": {
     "node": ">=20"
   },
